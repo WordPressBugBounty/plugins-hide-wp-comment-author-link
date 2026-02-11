@@ -1,8 +1,8 @@
 === Hide Comment Author Link ===
 Contributors: mag_oberon
-Tags: hide author link, disable link, disable comment link, comment author link, comment author, comment author link, author link, remove comment author link, author, link, remove link, hide link, disable link, disable url, comment author url, hide comment author url, post, plugin, posts, comments, link
+Tags: author link, disable comment link, comment url, comment author, remove comment link
 Requires at least: 5.5
-Tested up to: 6.1
+Tested up to: 6.8.1
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ Do you want to hide or disable comment author link in WordPress? Hide Comment Au
 
 Just simply install Hide WordPress Comment Author Link plugin and it will be automatically disable your all comment author url.
 
-If you have any question then ask to <strong><a href="https://www.usefulblogging.com/remove-comment-author-link-in-wordpress">support blog</a></strong>.
+Read the <strong><a href="https://www.usefulblogging.com/remove-comment-author-link-in-wordpress">support blog</a></strong>.
 
 
 == Installation ==

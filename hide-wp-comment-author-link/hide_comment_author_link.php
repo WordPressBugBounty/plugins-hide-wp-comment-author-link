@@ -7,7 +7,7 @@ Version: 1.7
 Author: Ataul Ghani
 Author URI: https://www.usefulblogging.com
 Requires at least: 5.5
-Tested Up to: 6.1
+Tested Up to: 6.8.1
 Stable Tag: trunk
 License: GPL v2
 */
